@@ -1,0 +1,3 @@
+rootProject.name = 'QGRNDemo_07_ListView'
+
+include ':app'
